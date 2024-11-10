@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.kcmo.org/Transportation/Traffic-Counts-at-Signals/s7kw-x59n
+HostUrl=https://data.kcmo.org/api/views/s7kw-x59n/rows.csv?accessType=DOWNLOAD
